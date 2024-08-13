@@ -1,0 +1,13 @@
+1 - Genereate Laravel Project Command: laravel new Crud
+
+2 - Generate Database Laravel Command: php artisan make:migration create_products_table
+
+3 - Generate Model in Laravel Command: php artisan make:model ProductController
+
+4 - Fourth generate 3 laravel blade files: Create.blade.php | edit.blade.php | list.blade.php
+
+5 - Generate Routes: Routes
+
+6 - Code in blade files
+
+7 - Code in Product Contorller Model File
